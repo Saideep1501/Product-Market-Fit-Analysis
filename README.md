@@ -2,6 +2,8 @@
 
 🚀 **[🔗 View Live Power BI Dashboard](https://app.powerbi.com/links/FmBVXLx78u?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)**
 
+🎥 **[Watch Project Presentation Video](https://youtu.be/urfivr8ZPzQ)**
+
 This project was created as part of the **Codebasics Resume Project Challenge #16**, sponsored by **Dataful**. The goal was to apply real-world data analytics skills to build a **Power BI dashboard** that helps a startup make informed, data-driven decisions before investing in R&D.
 
 ---
