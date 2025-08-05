@@ -1,6 +1,6 @@
 # 📊 Product Market Fit Research for Air Purifier Development Using AQI Analytics
 
-🚀 **[🔗 View Live Power BI Dashboard](https://app.powerbi.com/links/FmBVXLx78u?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)**
+🚀 **[🔗 View Live Power BI Dashboard]([https://app.powerbi.com/links/FmBVXLx78u?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiNjQ0N2U2NDEtMzczZC00MDJlLWFiM2ItYjI1ZTQ1OGQ4MzhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))**
 
 🎥 **[Watch Project Presentation Video](https://youtu.be/urfivr8ZPzQ)**
 
