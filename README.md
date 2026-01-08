@@ -67,7 +67,7 @@ The dashboard is structured into multiple analytical pages:
 This project helped me grow tremendously as a data analyst. Before this challenge, I had no hands-on experience with real business problems. Through this challenge, I learned how to approach a business case, derive insights from raw data, and present them in a meaningful and visual format that speaks to stakeholders.
 
 The most valuable skill I gained?  
-**Data Storytelling** — making data speak and drive decisions.
+**Data Storytelling** - making data speak and drive decisions.
 
 ---
 
